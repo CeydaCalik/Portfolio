@@ -33,7 +33,7 @@ export const About = () => {
                 </h2>
 
                 <div className="rounded-xl p-8 border-white/10 border">
-                    <p className="text-grey-300 mb-6 ">Je suis actuellement en formation chez Interface3.<br/>
+                    <p className="text-grey-300 mb-6 ">Je suis actuellement en formation chez Interface3.<br/><br/>
                  Je suis à la recherche d’un stage afin de développer mes compétences et acquérir une expérience professionnelle concrète. </p>
 
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6  ">

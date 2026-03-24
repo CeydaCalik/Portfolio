@@ -9,7 +9,7 @@ export const Home = () => {
 
             <p className="text-gray-400 text-lg  mb-8 max-w-lg mx-auto">
                
-               Je suis developpeuse web en apprentissage.
+               Je suis developpeuse web débutante.
             </p>
 
             <div className="flex justify-center space-x-4">

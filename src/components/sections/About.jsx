@@ -5,8 +5,7 @@ export const About = () => {
         "CSS",
         "React",
         "TailwindCSS",
-        "TypeScript",
-        "JavaScript",
+        "JavaScript"
     ];
 
     const backendSkills = [

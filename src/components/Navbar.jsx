@@ -11,7 +11,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
         <div className="max-w-5xl mx-auto px-4">
             <div className="flex justify-between items-center h-16">
                 <a href="#home" alt="logo">
-                    LOGO
+                   <span className="text-2xl text-emerald-900 font-serif"> C </span> 
                 </a>
                 {/* Hamburger menu */}
                 <div className="w-7 h-5 relative cursor-pointer z-40 md:hidden" onClick={() => setMenuOpen((prev => !prev))}>

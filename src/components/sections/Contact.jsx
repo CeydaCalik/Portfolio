@@ -21,7 +21,9 @@ export const Contact = () => {
             setFormData({name: "", email: "", message: ""});
         })
         .catch(() => alert("Une erreur est survenue, veuillez réessayer."));
-        
+        console.log("SERVICE:", import.meta.env.VITE_SERVICE_ID);
+console.log("TEMPLATE:", import.meta.env.VITE_TEMPLATE_ID);
+console.log("PUBLIC:", import.meta.env.VITE_PUBLIC_KEY);
     }
 
     return (

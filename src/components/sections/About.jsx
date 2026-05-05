@@ -10,8 +10,7 @@ export const About = () => {
 
     const backendSkills = [
         "Node.js",
-        "MongoDB",
-        "Insomnia"
+        "MongoDB"
     ];
 
     const tools = [
